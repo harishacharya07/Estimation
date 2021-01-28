@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83804827729",
+    "firebase_url": "https://house-estimation-and-costing.firebaseio.com",
+    "project_id": "house-estimation-and-costing",
+    "storage_bucket": "house-estimation-and-costing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83804827729:android:c95cec85f8a42c3e814870",
+        "android_client_info": {
+          "package_name": "com.ttwcalc.houseestimationandcosting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83804827729-35qtgvupk4tc0cftiikn1mnhcsdpjdhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ttwcalc.houseestimationandcosting",
+            "certificate_hash": "035789103594d9cf2798251705570bb271f8fc2f"
+          }
+        },
+        {
+          "client_id": "83804827729-upo0sa2uge4vkfbcunle6jkm4qtblrn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYO5h6Aj8-l1F6sIKtQfUwqbJibBMlA2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83804827729-upo0sa2uge4vkfbcunle6jkm4qtblrn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/homerun"
+        android:title="Home"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/concrete"
+        android:enabled="true"
+        android:icon="@drawable/cmixer"
+        android:title="MixDesign"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/acceries"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_domain_24"
+        android:title="Accessories"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"
+        app:showAsAction="ifRoom"/>
+</menu>
